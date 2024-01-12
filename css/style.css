@@ -484,8 +484,16 @@ body.dark {
     .portfolio-2-columns .portfolio-item.large-width {
       width: 100%; } }
 /*Tablet Portrait*/
+/* @media (max-width: 425px){
+  .newsPost{
+    padding: 1px !important;
+  }
+} */
 @media (max-width: 480px) {
   /*Grid columns: 6,5,4,3,2*/
+  .newsPost{
+    padding: 0 10px 0 10px !important;
+  }
   .grid-6-columns .grid-item,
   .post-6-columns .post-item,
   .portfolio-6-columns .portfolio-item,
