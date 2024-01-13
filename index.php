@@ -3,6 +3,22 @@
 ?>
 
 
+                    <!--Dots Menu -->
+                    <nav id="dotsMenu">
+                        <ul>
+                            <li><a href="#slider"><span>Home</span></a></li>
+                            <li><a href="#welcome"><span>Welcome</span></a></li>
+                            <li><a href="#news"><span>Our News</span></a></li>
+                            <li><a href="#section2"><span>Our Projects</span></a></li>
+                        </ul>
+                    </nav>
+                    <!--End: Dots Menu -->
+
+                </div>
+            </div>
+        </header>
+        <!-- end: Header -->
+
 
         <!-- Inspiro Slider -->
         <div id="slider" class="inspiro-slider slider-fullscreen dots-creative" data-height-xs="360">
@@ -71,7 +87,7 @@
                             <div> <i class="far fa-lightbulb"></i>
                                 <h3>Who we are</h3>
                                 <p>Ispendisse consectetur fringilla luctus usce id mi diam, non ornare.</p>
-                                <p><a href="about.html" class="btn btn-shadow btn-rounded">Show More</a></p>
+                                <p><a href="about.php" class="btn btn-shadow btn-rounded">Show More</a></p>
                             </div>
                         </div>
                     </div>
@@ -154,7 +170,7 @@
                     <!-- end: Post item-->
                 </div>
                 <div class="text-center">
-                    <a href="news.html"><button type="button" class="btn btn-rounded btn-outline btn-reveal"><span>More news</span><i class="icon-chevron-right"></i></button></a>
+                    <a href="news.php"><button type="button" class="btn btn-rounded btn-outline btn-reveal"><span>More news</span><i class="icon-chevron-right"></i></button></a>
                 </div>
             </div>
         </section>

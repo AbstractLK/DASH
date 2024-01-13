@@ -1,7 +1,11 @@
 <?php
             include('header.php');
         ?>
-        
+                </div>
+            </div>
+        </header>
+        <!-- end: Header -->
+
         <!-- Page title -->
         <section id="page-title" data-bg-parallax="assets/q1.jpg">
             <div class="container">
@@ -11,7 +15,7 @@
                 </div>
                 <div class="breadcrumb">
                     <ul>
-                        <li><a href="index.html">Home</a>
+                        <li><a href="index.php">Home</a>
                         </li>
                         <li class="active"><a href="#">About</a>
                         </li>

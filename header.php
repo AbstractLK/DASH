@@ -24,7 +24,7 @@
                 <div class="container">
                     <!--Logo-->
                     <div id="logo">
-                        <a href="index.html">
+                        <a href="index.php">
                             <img class="logo-default" src="assets/logo2.png">
                             <img class="logo-dark" src="assets/logo2.png">
                         </a>
@@ -52,35 +52,19 @@
                         <div class="container">
                             <nav>
                                 <ul>
-                                    <li><a href="index.html">Home</a></li>
-                                    <li class=""> <a href="about.html">About us</a>
+                                    <li><a href="index.php">Home</a></li>
+                                    <li class=""> <a href="about.php">About us</a>
                                     </li>
-                                    <li class=""> <a href="gallery.html">Photo Gallery</a>
+                                    <li class=""> <a href="gallery.php">Photo Gallery</a>
                                     </li>
                                     <li class="dropdown mega-menu-item"><a href="#">Careers</a>
                                      </li>
-                                    <li class=""> <a href="news.html">News</a>
+                                    <li class=""> <a href="news.php">News</a>
                                     </li>
-                                    <li class=""> <a href="contact.html">Contact</a>
+                                    <li class=""> <a href="contact.php">Contact</a>
                                     </li>
                                 </ul>
                             </nav>
                         </div>
                     </div>
                     <!--end: Navigation-->
-
-
-                    <!--Dots Menu -->
-                    <!-- <nav id="dotsMenu">
-                        <ul>
-                            <li><a href="#slider"><span>Home</span></a></li>
-                            <li><a href="#welcome"><span>Welcome</span></a></li>
-                            <li><a href="#news"><span>Our News</span></a></li>
-                            <li><a href="#section2"><span>Our Projects</span></a></li>
-                        </ul>
-                    </nav> -->
-                    <!--End: Dots Menu -->
-                </div>
-            </div>
-        </header>
-        <!-- end: Header -->
