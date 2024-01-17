@@ -31,10 +31,10 @@
                             <div class="widget">
                                 <h4>Location </h4>
                                 <ul class="list">
-                                    <li><a href="#">795 Folsom Ave, Suite 600,</a></li>
+                                    <li><a href="#">SLT Digital Services</a></li>
                                     <li><a href="#"></a></li>
-                                    <li><a href="#">San Francisco,</a></li>
-                                    <li><a href="#">CA 94107</a></li>
+                                    <li><a href="#">No.17, H.K Dharmadasa Mawatha,</a></li>
+                                    <li><a href="#">Colombo 02.</a></li>
                                 </ul>
                             </div>
                             <!-- end: Footer widget area 2 -->

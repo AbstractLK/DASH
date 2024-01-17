@@ -43,7 +43,7 @@
                             <div class="post-item-wrap row">
                                 <div class="post-image col-md-5">
                                     <a href="ajax-page.php" data-lightbox="ajax">
-                                        <img alt="" src="images/blog/12.jpg">
+                                        <img alt="" src="assets/news1.jpg">
                                     </a>
                                     <span class="post-meta-category"><a href="">News</a></span>
                                 </div>
@@ -51,9 +51,9 @@
                                     <!-- <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Jan 21, 2017</span>
                                     <span class="post-meta-comments"><a href=""><i class="fa fa-comments-o"></i>33
                                             Comments</a></span> -->
-                                    <h2><a href="ajax-page.php" data-lightbox="ajax">Standard post with a single image
+                                    <h2><a href="ajax-page.php" data-lightbox="ajax">Newsletter September 2023
                                         </a></h2>
-                                    <p>Curabitur pulvinar euismod ante, ac sagittis ante posuere ac. Vivamus luctus commodo dolor porta feugiat. Fusce at velit id ligula pharetra laoreet.</p>
+                                    <p>What leads a former teacher to clear mines now? Victoria from Ukraine talks about her career in the September newsletter.</p>
                                     <a href="ajax-page.php" data-lightbox="ajax" class="item-link">Read More <i class="icon-chevron-right"></i></a>
                                 </div>
                             </div>
@@ -64,14 +64,14 @@
                             <div class="post-item-wrap row">
                                 <div class="post-image col-md-5">
                                     <a href="ajax-page.php" data-lightbox="ajax">
-                                        <img alt="" src="images/blog/12.jpg">
+                                        <img alt="" src="assets/csm_Picture_6.jpg">
                                     </a>
                                     <span class="post-meta-category"><a href="">News</a></span>
                                 </div>
                                 <div class="post-item-description col-md-7">
-                                    <h2><a href="ajax-page.php" data-lightbox="ajax">Standard post with a single image
+                                    <h2><a href="ajax-page.php" data-lightbox="ajax">SLandmine Monitor 2022
                                         </a></h2>
-                                    <p>Curabitur pulvinar euismod ante, ac sagittis ante posuere ac. Vivamus luctus commodo dolor porta feugiat. Fusce at velit id ligula pharetra laoreet.</p>
+                                    <p>Curabitur pulvinar euismod ante, ac sagittis ante posuere ac. Vivamus luctus commodo dolor porta feugiat.</p>
                                     <a href="ajax-page.php" data-lightbox="ajax" class="item-link">Read More <i class="icon-chevron-right"></i></a>
                                 </div>
                             </div>
@@ -82,14 +82,14 @@
                             <div class="post-item-wrap row">
                                 <div class="post-image col-md-5">
                                     <a href="ajax-page.php" data-lightbox="ajax">
-                                        <img alt="" src="images/blog/12.jpg">
+                                        <img alt="" src="assets/csm_2_63071893f2.jpg">
                                     </a>
                                     <span class="post-meta-category"><a href="">News</a></span>
                                 </div>
                                 <div class="post-item-description col-md-7">
-                                    <h2><a href="ajax-page.php" data-lightbox="ajax">Standard post with a single image
+                                    <h2><a href="ajax-page.php" data-lightbox="ajax">New law on data protection
                                         </a></h2>
-                                    <p>Curabitur pulvinar euismod ante, ac sagittis ante posuere ac. Vivamus luctus commodo dolor porta feugiat. Fusce at velit id ligula pharetra laoreet.</p>
+                                    <p>The World Without Mines Foundation has updated its privacy policy. It thus complies with the new data protection law.</p>
                                     <a href="ajax-page.php" data-lightbox="ajax" class="item-link">Read More <i class="icon-chevron-right"></i></a>
                                 </div>
                             </div>

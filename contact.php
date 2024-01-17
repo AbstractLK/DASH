@@ -31,7 +31,8 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <h3 class="text-uppercase">Get In Touch</h3>
-                        <p>The most happiest time of the day!. Suspendisse condimentum porttitor cursus. Duis nec nulla turpis. Nulla lacinia laoreet odio, non lacinia nisl malesuada vel. Aenean malesuada fermentum bibendum.</p>
+                        <p>Please don't hesitate to contact us at any time or order
+information material about the the Delvon Assistance for Social Harmony.</p>
                         <div class="m-t-30">
                             <form class="widget-contact-form" novalidate action="include/contact-form.php" role="form" method="post">
                                 <div class="row">
@@ -67,23 +68,23 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <address>
-                                    <strong>Polo, Inc.</strong><br>
-                                    795 Folsom Ave, Suite 600<br>
-                                    San Francisco, CA 94107<br>
-                                    <abbr title="Phone">P:</h4> (123) 456-7890
+                                    <strong>SLT Digital Services</strong><br>
+                                    No.17, H.K Dharmadasa Mawatha,<br>
+                                    Colombo 02.<br>
+                                    <abbr title="Phone">P:</h4> +94 11 2 399 399
                                 </address>
                             </div>
-                            <div class="col-lg-6">
+                            <!-- <div class="col-lg-6">
                                 <address>
                                     <strong>Polo Office</strong><br>
                                     795 Folsom Ave, Suite 600<br>
                                     San Francisco, CA 94107<br>
                                     <abbr title="Phone">P:</h4> (123) 456-7890
                                 </address>
-                            </div>
+                            </div> -->
                         </div>
                         <!-- Google Map -->
-                        <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4047293.7425942817!2d78.06272253073419!3d7.849427294514713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2593cf65a1e9d%3A0xe13da4b400e2d38c!2sSri%20Lanka!5e0!3m2!1sen!2slk!4v1705113258155!5m2!1sen!2slk" width="540" height="460" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.7396106163947!2d79.85080197410383!3d6.921699793078!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259150c90e9e1%3A0x63e643794fb81ed3!2sSLT%20Digital%20Services%20(Pvt)%20Ltd!5e0!3m2!1sen!2slk!4v1705402012019!5m2!1sen!2slk" width="540" height="460" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         <!-- <div class="map" data-latitude="-37.817240" data-longitude="144.955826" data-style="light" data-info="Hello from &lt;br&gt; Inspiro Themes"></div> -->
                         <!-- end: Google Map -->
                     </div>

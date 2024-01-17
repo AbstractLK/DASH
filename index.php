@@ -29,7 +29,7 @@
                 <div class="container-wide">
                     <div class="slide-captions col-lg-6">
                         <!-- Captions -->
-                        <h2 data-caption-animation="zoom-out">World Without Mines</h2>
+                        <h2 data-caption-animation="zoom-out">Live without fear of landmines.</h2>
                         <p class="lead">Everyone should live without fear of landmines. That is what we are committed to.</p>
                         <div data-caption-animation="zoom-out">
                             <a href="https://www.youtube.com/watch?v=8J76oCJbccI" data-lightbox="iframe" class="btn btn-rounded"><i class="fa fa-play"></i> View our Work</a>
@@ -183,7 +183,7 @@
                     <div class="col-lg-7">
                         <div class="heading-text heading-line">
                             <h2>Our Projects</h2>
-                            <p>Nulla varius consequat magna, id molestie ipsum volutpat quis. A true story, that never been told!. Fusce id mi diam, non ornare.</p>
+                            <p>We choose our projects very carefully. You can gain an insight into our work here and see what your donation can achieve on location.</p>
                         </div>
                     </div>
                     <div class="col-lg-2  offset-3 p-t-60">
