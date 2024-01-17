@@ -11487,7 +11487,7 @@ div.icon-box:before {
     color: #fff;
     transition: all 0.4s ease 0s; }
   .text-box:hover {
-    background: #eeeeee; }
+    background: rgb(238 238 238 / 80%); }
     .text-box:hover i,
     .text-box:hover h3,
     .text-box:hover h5,

@@ -60,7 +60,7 @@
             <div class="container">
                 <div class="row col-no-margin equalize" data-equalize-item=".text-box">
                     <!--Box 1-->
-                    <div class="col-lg-4" style="background-color: rgb(80 102 129 / 80%);">
+                    <div class="col-lg-4" style="background-image: url('assets/mine-grass1.jpg');">
                         <div class="text-box hover-effect">
                             <div> <i class="fa fa-paper-plane"></i>
                                 <h3>What we do</h3>
@@ -71,7 +71,7 @@
                     </div>
                     <!--End: Box 1-->
                     <!--Box 2-->
-                    <div class="col-lg-4" style="background-color: rgb(65 86 111 / 90%);">
+                    <div class="col-lg-4" style="background-image: url('assets/three-people2.jpg');">
                         <div class="text-box hover-effect">
                             <div> <i class="fas fa-chart-pie"></i>
                                 <h3>How you can help</h3>
@@ -82,7 +82,7 @@
                     </div>
                     <!--End: Box 2-->
                     <!--Box 3-->
-                    <div class="col-lg-4" style="background-color: rgb(50 71 95 / 100%);">
+                    <div class="col-lg-4" style="background-image: url('assets/p4image-370x428.jpg');">
                         <div class="text-box hover-effect">
                             <div> <i class="far fa-lightbulb"></i>
                                 <h3>Who we are</h3>
