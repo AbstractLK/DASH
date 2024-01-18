@@ -11,7 +11,6 @@
             <div class="container">
                 <div class="page-title">
                     <h1 class="text-uppercase text-medium">About us</h1>
-                    <span>Work is easy when you have all tools around you!</span>
                 </div>
                 <div class="breadcrumb">
                     <ul>
@@ -37,7 +36,7 @@
         </section> -->
         <!-- end: Page title -->
         
-        <section class="p-b-10">
+        <section class="p-b-10" style="background-image: url('assets/opacity-changed-breadcrums1.jpg');">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -66,19 +65,18 @@
             <div class="container">
                 <div class="heading-text heading-section ">
                     <h2>OUR TEAM</h2>
-                    <h6 class="lead text-center">We want a world without mines!.</h6>
+                    <h6 class="lead text-center"></h6>
                 </div>
                 <!--Team Carousel -->
                 <div class="carousel team-members team-members-shadow p-l-100 p-r-100" data-items="3">
                     <div class="team-member">
                         <div class="team-image">
-                            <img src="assets/m1.jpg">
+                            <img src="assets/t4.jpg">
                         </div>
                         <div class="team-desc">
-                            <h3>Rolf Stocker</h3>
+                            <h3>K. Vigneshwaran</h3>
                             <span>Co-President of the Board</span>
-                            <p >Mines and cluster munition are insidious weapons that continue to kill or maim uninvolved people, including many children, years after the war.
-                            </p>
+                            <p ></p>
                             <div class="align-center">
                                 <a class="btn btn-xs btn-slide btn-light" href="#">
                                     <i class="fab fa-facebook-f"></i>
@@ -94,13 +92,12 @@
                     </div>
                     <div class="team-member">
                         <div class="team-image">
-                            <img src="assets/m2.jpg">
+                            <img src="assets/t5.jpg">
                         </div>
                         <div class="team-desc">
-                            <h3>Claudia Schwarzenbach</h3>
+                            <h3>A.K. Malaviarachchi</h3>
                             <span>Co-President of the Board</span>
-                            <p class='p-b-50'>Peace and security are the foundations on which a country can develop.
-                            </p>
+                            <p class='p-b-0'>  </p>
                             <div class="align-center">
                                 <a class="btn btn-xs btn-slide btn-light" href="#">
                                     <i class="fab fa-facebook-f"></i>
@@ -116,12 +113,12 @@
                     </div>
                     <div class="team-member">
                         <div class="team-image">
-                            <img src="assets/m4.jpg">
+                            <img src="assets/t6.jpg">
                         </div>
                         <div class="team-desc">
-                            <h3>Irene Rohner</h3>
+                            <h3>Nuwan Jayawardena</h3>
                             <span>Managing Co-Director</span>
-                            <p>A graduate geographer and sociologist, Irene Rohner has many years of experience in international cooperation and has worked for the UN, consulting firms and NGOs.
+                            <p>
                             </p>
                             <div class="align-center">
                                 <a class="btn btn-xs btn-slide btn-light" href="#">
@@ -169,7 +166,7 @@
                         </div>
                     </div>
                 </div> -->
-                <div class="line"></div>
+                <!-- <div class="line"></div> -->
             </div>
         </section>
 

@@ -1,5 +1,5 @@
 <!-- Footer -->
-<footer id="footer">
+<footer id="footer" class="inverted">
             <div class="footer-content">
                 <div class="container">
                     <div class="row gap-y">
@@ -8,7 +8,7 @@
                                 <div class="col-md-3"><p><a href="#"><img src="assets/logo2.png" width="80px" alt="logo"></a></p></div>
                                 <div class="col-md-9"><h3>Delvon Assistance for Social Harmony</h3></div>
                             </div>
-                            <p class="p-t-10">Delvon Assistance for Social Harmony (DASH) is the leading, most experienced and well-established of the two non-governmental humanitarian demining organization available in Sri Lanka, assisting the Government’s rehabilitation and reconciliation efforts for the Northern Province. </p>
+                            <p class="p-t-10" style='text-align: justify;'>Delvon Assistance for Social Harmony (DASH) is the leading, most experienced and well-established of the two non-governmental humanitarian demining organization available in Sri Lanka, assisting the Government’s rehabilitation and reconciliation efforts for the Northern Province. </p>
                         </div>
                         <div class="col-6 col-md-6 col-xl-2 p-l-50">
                             <!-- Footer widget area 3 -->

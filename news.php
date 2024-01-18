@@ -20,7 +20,7 @@
                     <ul>
                         <li><a href="index.php">Home</a>
                         </li>
-                        <li class="active"><a href="#">news</a>
+                        <li class="active"><a href="#">Our news</a>
                         </li>
                     </ul>
                 </div>
@@ -47,14 +47,14 @@
                                     </a>
                                     <span class="post-meta-category"><a href="">News</a></span>
                                 </div>
-                                <div class="post-item-description col-md-7">
+                                <div class="post-item-description col-md-7 news">
                                     <!-- <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Jan 21, 2017</span>
                                     <span class="post-meta-comments"><a href=""><i class="fa fa-comments-o"></i>33
                                             Comments</a></span> -->
                                     <h2><a href="ajax-page.php" data-lightbox="ajax">Newsletter September 2023
                                         </a></h2>
                                     <p>What leads a former teacher to clear mines now? Victoria from Ukraine talks about her career in the September newsletter.</p>
-                                    <a href="ajax-page.php" data-lightbox="ajax" class="item-link">Read More <i class="icon-chevron-right"></i></a>
+                                    <a href="blog-single.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -62,17 +62,17 @@
                         <!-- Post item2-->
                         <div class="post-item border m-b-30 ">
                             <div class="post-item-wrap row">
+                                <div class="post-item-description col-md-7 news">
+                                    <h2><a href="ajax-page.php" data-lightbox="ajax">Landmine Monitor 2022
+                                        </a></h2>
+                                    <p>Curabitur pulvinar euismod ante, ac sagittis ante posuere ac. Vivamus luctus commodo dolor porta feugiat.</p>
+                                    <a href="blog-single.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
+                                </div>
                                 <div class="post-image col-md-5">
                                     <a href="ajax-page.php" data-lightbox="ajax">
                                         <img alt="" src="assets/csm_Picture_6.jpg">
                                     </a>
                                     <span class="post-meta-category"><a href="">News</a></span>
-                                </div>
-                                <div class="post-item-description col-md-7">
-                                    <h2><a href="ajax-page.php" data-lightbox="ajax">SLandmine Monitor 2022
-                                        </a></h2>
-                                    <p>Curabitur pulvinar euismod ante, ac sagittis ante posuere ac. Vivamus luctus commodo dolor porta feugiat.</p>
-                                    <a href="ajax-page.php" data-lightbox="ajax" class="item-link">Read More <i class="icon-chevron-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -86,17 +86,46 @@
                                     </a>
                                     <span class="post-meta-category"><a href="">News</a></span>
                                 </div>
-                                <div class="post-item-description col-md-7">
+                                <div class="post-item-description col-md-7 news">
                                     <h2><a href="ajax-page.php" data-lightbox="ajax">New law on data protection
                                         </a></h2>
                                     <p>The World Without Mines Foundation has updated its privacy policy. It thus complies with the new data protection law.</p>
-                                    <a href="ajax-page.php" data-lightbox="ajax" class="item-link">Read More <i class="icon-chevron-right"></i></a>
+                                    <a href="blog-single.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end: Post item-->
+                        <!-- Post item4-->
+                        <div class="post-item border m-b-30 ">
+                            <div class="post-item-wrap row">
+                                <div class="post-item-description col-md-7 news">
+                                    <h2><a href="ajax-page.php" data-lightbox="ajax">Landmine Monitor 2022
+                                        </a></h2>
+                                    <p>Curabitur pulvinar euismod ante, ac sagittis ante posuere ac. Vivamus luctus commodo dolor porta feugiat.</p>
+                                    <a href="blog-single.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
+                                </div>
+                                <div class="post-image col-md-5">
+                                    <a href="ajax-page.php" data-lightbox="ajax">
+                                        <img alt="" src="assets/csm_Picture_6.jpg">
+                                    </a>
+                                    <span class="post-meta-category"><a href="">News</a></span>
                                 </div>
                             </div>
                         </div>
                         <!-- end: Post item-->
                     </div>
                 </div>
+                <!-- Pagination -->
+                <ul class="pagination">
+                    <li class="page-item"><a class="page-link" href="#"><i class="fa fa-angle-left"></i></a></li>
+                    <li class="page-item"><a class="page-link" href="#">1</a></li>
+                    <li class="page-item"><a class="page-link" href="#">2</a></li>
+                    <li class="page-item active"><a class="page-link" href="#">3</a></li>
+                    <li class="page-item"><a class="page-link" href="#">4</a></li>
+                    <li class="page-item"><a class="page-link" href="#">5</a></li>
+                    <li class="page-item"><a class="page-link" href="#"><i class="fa fa-angle-right"></i></a></li>
+                </ul>
+                <!-- end: Pagination -->
             </div>
         </section>
         <!-- end: BLOG --> 

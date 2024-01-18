@@ -1042,7 +1042,7 @@ Topbar
       #header #header-wrap #logo a > img {
         vertical-align: inherit;
         transition: all .4s ease-in-out;
-        height: 80px;
+        height: 90px;
         width: auto; }
       #header .header-inner #logo a > img,
       #header .header-inner #logo a [class*="logo-"],
@@ -1326,7 +1326,7 @@ Main Menu
           font-family: "Poppins", sans-serif;
           padding: 10px 12px;
           text-transform: uppercase;
-          font-size: 12px;
+          font-size: 13px;
           font-weight: 600;
           letter-spacing: 0.6px;
           color: #000000;
@@ -4574,6 +4574,10 @@ Portfolio
 /* ----------------------------------------------------------------
 	Blog
 -----------------------------------------------------------------*/
+.news{
+  padding: 55px 65px !important;
+}
+
 .post-item {
   float: left;
   width: 100%;
@@ -4641,7 +4645,8 @@ Portfolio
   .post-item .post-item-description {
     padding: 24px;
     line-height: 28px;
-    color: #676767; }
+    color: #676767;
+    background-color: #e8e9ed; }
     .post-item .post-item-description > h2,
     .post-item .post-item-description > h2 > a {
       font-size: 18px;
@@ -4684,8 +4689,10 @@ Portfolio
     .post-item.border .post-item-wrap {
       border: 1px solid #f2f2f2; }
     .post-item.border > .post-item-wrap > .post-item-description {
-      padding: 24px !important;
-      width: 100% !important; }
+      padding: 30px ;
+      width: 100% !important;
+      border-radius: 10px ;  }
+
   .post-item.quote .post-item-wrap {
     background-color: #2250fc;
     border-radius: 4px;
@@ -6837,8 +6844,8 @@ Helpers
       line-height: 32px;
       color: #999; }
   #footer .copyright-content {
-    min-height: 80px;
-    padding: 30px 0;
+    /* min-height: 80px; */
+    padding: 20px 0;
     background-color: #eff1f4;
     font-size: 13px; }
   #footer .logo {
@@ -11487,7 +11494,7 @@ div.icon-box:before {
     color: #fff;
     transition: all 0.4s ease 0s; }
   .text-box:hover {
-    background: rgb(238 238 238 / 80%); }
+    background: rgb(238 238 238 / 60%); }
     .text-box:hover i,
     .text-box:hover h3,
     .text-box:hover h5,

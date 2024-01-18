@@ -15,7 +15,6 @@
             <div class="container">
                 <div class="page-title">
                     <h1>Gallery 2 Columns</h1>
-                    <span>Description</span>
                 </div>
                 <div class="breadcrumb">
                     <ul>
@@ -30,10 +29,10 @@
         <!-- end: Page title -->
 
         <!-- Content -->
-        <section id="page-content">
+        <section id="page-content" style="background-image: url('assets/opacity-changed-breadcrums1.jpg');">
             <div class="container">
                 <!-- Gallery -->
-                <div class="grid-layout grid-3-columns" data-margin="20" data-item="grid-item" data-lightbox="gallery">
+                <div class="grid-layout grid-3-columns m-l-40 m-r-40" data-margin="20" data-item="grid-item" data-lightbox="gallery">
                     <div class="grid-item">
                         <a class="image-hover-zoom" href="assets/1.jpg" data-lightbox="gallery-image"><img src="assets/1.jpg" style="width: 100%;"></a>
                     </div>
@@ -63,8 +62,14 @@
                     </div>
                 </div>
                 <!-- end: Gallery -->
+
+                <!-- Show more posts Button -->
+                <div id="showMore">
+                    <a href="#" class="btn btn-rounded btn-light" style='background-color: rgb(255 255 255 / 80%); color: gray'><i class="icon-refresh-cw"></i> Load More Photos</a>
+                </div>
+                <!-- end: Show more posts Button -->
             </div>
-        </section> <!-- end: Content -->
+        </section> <!-- end: Content --><br>
         
         <?php
             include('footer.php');

@@ -42,60 +42,61 @@
         </div>
         <!--end: Inspiro Slider -->
 
-        <!-- WELCOME -->
-        <section id="welcome" class="p-b-0">
-            <div class="container">
-                <div class="heading-text heading-section text-center m-b-40" data-animate="fadeInUp">
-                    <h2>WELCOME TO THE DASH</h2>
-                    <span class="lead">We do whatever it takes to get to a landmine before another child does.</span>
-                </div>
-            </div>
-        </section>
-        <!-- end: WELCOME -->
+        
 
        
 
         <!-- Text Boxes -->
-        <section>
+        <section  style="background-image: url('assets/opacity-changed-breadcrums1.jpg');">
+        <!-- WELCOME -->
+        <div id="welcome" class="p-b-0">
             <div class="container">
-                <div class="row col-no-margin equalize" data-equalize-item=".text-box">
-                    <!--Box 1-->
-                    <div class="col-lg-4" style="background-image: url('assets/mine-grass1.jpg');">
-                        <div class="text-box hover-effect">
-                            <div> <i class="fa fa-paper-plane"></i>
-                                <h3>What we do</h3>
-                                <p>We clear minefields and sensitise people living in affected areas that are in danger of mines.</p>
-                                <p><a href="" data-lightbox="" class="btn btn-shadow btn-rounded">Show More</a></p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End: Box 1-->
-                    <!--Box 2-->
-                    <div class="col-lg-4" style="background-image: url('assets/three-people2.jpg');">
-                        <div class="text-box hover-effect">
-                            <div> <i class="fas fa-chart-pie"></i>
-                                <h3>How you can help</h3>
-                                <p>Donate for safety and hope. Help people access land and resources while dealing with mine hazard.</p>
-                                <p><a href="" data-lightbox="" class="btn btn-shadow btn-rounded">Show More</a></p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End: Box 2-->
-                    <!--Box 3-->
-                    <div class="col-lg-4" style="background-image: url('assets/p4image-370x428.jpg');">
-                        <div class="text-box hover-effect">
-                            <div> <i class="far fa-lightbulb"></i>
-                                <h3>Who we are</h3>
-                                <p>Ispendisse consectetur fringilla luctus usce id mi diam, non ornare.</p>
-                                <p><a href="about.php" class="btn btn-shadow btn-rounded">Show More</a></p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End: Box 3-->
+                <div class="heading-text heading-section text-center m-b-40  m-l-60 m-r-60" data-animate="fadeInUp">
+                    <h2>WELCOME TO THE DASH</h2>
+                    <span class="lead" >DASH is your reliable partner for mine clearance. We help communities by creating safe pathways through minefields, ensuring a future free from danger. Join us on a journey of hope and transformation as we navigate the delicate landscape of landmines.</span>
                 </div>
             </div>
-        </section>
-        <!-- end: Text Boxes -->
+        </div>
+        <!-- end: WELCOME -->
+                <div class="container">
+                    <div class="row col-no-margin equalize" data-equalize-item=".text-box">
+                        <!--Box 1-->
+                        <div class="col-lg-4" style="background-image: url('assets/opacity-changed-PHOTO2-fotor-modified.jpg');">
+                            <div class="text-box hover-effect">
+                                <div> <i class="fa fa-paper-plane"></i>
+                                    <h3>What we do</h3>
+                                    <p>We clear minefields and sensitise people living in affected areas that are in danger of mines.</p>
+                                    <p><a href="" data-lightbox="" class="btn btn-shadow btn-rounded">Show More</a></p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--End: Box 1-->
+                        <!--Box 2-->
+                        <div class="col-lg-4" style="background-image: url('assets/opacity-changed-three-people2.jpg');">
+                            <div class="text-box hover-effect">
+                                <div> <i class="fas fa-chart-pie"></i>
+                                    <h3>How you can help</h3>
+                                    <p>Donate for safety and hope. Help people access land and resources while dealing with mine hazard.</p>
+                                    <p><a href="" data-lightbox="" class="btn btn-shadow btn-rounded">Show More</a></p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--End: Box 2-->
+                        <!--Box 3-->
+                        <div class="col-lg-4" style="background-image: url('assets/opacity-changed-HALO5.png');">
+                            <div class="text-box hover-effect">
+                                <div> <i class="far fa-lightbulb"></i>
+                                    <h3>Who we are</h3>
+                                    <p>Ispendisse consectetur fringilla luctus usce id mi diam, non ornare.</p>
+                                    <p><a href="about.php" class="btn btn-shadow btn-rounded">Show More</a></p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--End: Box 3-->
+                    </div>
+                </div>
+            </section>
+            <!-- end: Text Boxes -->
 
         <!-- news -->
         <section class="content background-grey" id="news">
@@ -176,14 +177,14 @@
         </section>
         <!-- end: news -->
 
-        <!-- Our Work -->
-        <section id="section2">
+        <!-- Our projects -->
+        <section id="section2"  style="background-image: url('assets/opacity-changed-breadcrums1.jpg');">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-7">
-                        <div class="heading-text heading-line">
+                        <div class="heading-text heading-section">
                             <h2>Our Projects</h2>
-                            <p>We choose our projects very carefully. You can gain an insight into our work here and see what your donation can achieve on location.</p>
+                            <sapn class='lead'>We choose our projects very carefully. You can gain an insight into our work here and see what your donation can achieve on location.</sapn>
                         </div>
                     </div>
                     <div class="col-lg-2  offset-3 p-t-60">
@@ -420,7 +421,7 @@
             </div>
         </section> -->
         <!-- end: Team -->
-
+<br>
 
         <?php
             include('footer.php');

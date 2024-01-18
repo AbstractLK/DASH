@@ -14,7 +14,6 @@
             <div class="container">
                 <div class="page-title">
                     <h1>Contact Us</h1>
-                    <span>The most happiest time of the day!.</span>
                 </div>
                 <div class="breadcrumb">
                     <ul>
